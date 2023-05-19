@@ -65,3 +65,47 @@ As interfaces devem ser robustas o suficiente para evitar que os usuários comet
    
    ![5](https://github.com/amandavo/bertoti/assets/100284976/f70db2f7-9c7c-429e-b2fb-962499ca1329)
 </details>
+
+## 7️⃣ Flexibilidade e eficiência de uso
+Os sistemas devem ser projetados para atender às necessidades de diferentes usuários, permitindo a personalização e o suporte a atalhos para usuários avançados. Isso ajuda a melhorar a eficiência e a produtividade do usuário.
+
+<details>
+   <summary>Exemplo</summary>
+   Fornecer opções para personalizar as configurações de um software, como escolher o que aparecer em uma tabela para atender a pesquisa do usuário.
+   <br>.
+   
+   ![7](https://github.com/amandavo/bertoti/assets/100284976/beb1fe84-2cfa-431e-a1f3-6173a5c4ff9f)
+</details>
+
+## 8️⃣ Estética e design minimalista
+As interfaces devem ser projetadas de forma esteticamente agradável, mas sem adicionar elementos desnecessários. O design deve ser limpo, direto e focado na funcionalidade.
+
+<details>
+   <summary>Exemplo</summary>
+   Sites com espaços distantes para melhorar a legibilidade e evitar a sobrecarga visual.
+   <br>.
+   
+   ![8](https://github.com/amandavo/bertoti/assets/100284976/95394312-ab9f-41ec-a0fa-19cf1905ebf4)
+</details>
+
+## 9️⃣ Ajuda e documentação
+É importante fornecer suporte ao usuário quando necessário, como documentação clara, ajuda online ou dicas contextuais. Projetando o sistema, deve ser pensado de forma a minimizar essa dependência.
+
+<details>
+   <summary>Exemplo</summary>
+   Incluindo uma seção de perguntas frequentes (FAQ) para responder às dúvidas mais comuns dos usuários.
+   <br>.
+   
+   ![9](https://github.com/amandavo/bertoti/assets/100284976/a30106ac-2a8c-4054-ab12-8a3402e0610a)
+</details>
+
+## 🔟 Reconhecimento de erro e recuperação
+Caso ocorra um erro, o sistema deve oferecer mensagens de erro claras e orientar o usuário sobre como corrigi-lo. Além disso, as interfaces devem permitir uma recuperação fácil e eficiente. 
+
+<details>
+   <summary>Exemplo</summary>
+   Ao preencher um formulário online, destacar campos obrigatórios em vermelho e exibir uma mensagem de erro caso sejam deixados em branco.
+   <br>.
+   
+   ![10](https://github.com/amandavo/bertoti/assets/100284976/ba4b5236-2837-4618-9a08-fc4ee5d774f9)
+</details>
