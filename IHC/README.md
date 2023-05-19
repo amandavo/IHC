@@ -1,4 +1,4 @@
-# Heurísticas de Nielsen
+# HEURÍSTICAS DE NIELSEN
 
 Jakob Nielsen criou 10 princípios gerais para design de interação. <br> Chamados de "heurísticas" porque são regras gerais e não diretrizes de usabilidade específicas.
 <br> O trabalho tem como objetivo identificar essas heurísticas no nosso dia a dia, identificá-las e documentá-las.
@@ -9,6 +9,10 @@ Jakob Nielsen criou 10 princípios gerais para design de interação. <br> Chama
    
    ![Heuristic](https://user-images.githubusercontent.com/100284976/223221850-5b342ffc-a610-40b4-a108-62c43bf8faa6.png)
 </details>
+
+<br>
+
+<br>
 
 ## 1️⃣ Visibilidade do status do sistema
 O sistema deve sempre fornecer feedback adequado ao usuário, informando-o sobre o que está acontecendo ou o status atual. 
@@ -119,4 +123,39 @@ Caso ocorra um erro, o sistema deve oferecer mensagens de erro claras e orientar
    <br>.
    
    ![10](https://github.com/amandavo/bertoti/assets/100284976/ba4b5236-2837-4618-9a08-fc4ee5d774f9)
+</details>
+
+<br>
+
+---
+
+## 🔴 ERROS
+
+## ❗ 1- Visibilidade do status do sistema
+O site do Detran retornou feedback confusos sobre o que está acontecendo. Avisando que consta solicitação, porém a escrita está em cor vermelha e ao lado, um ícone circular vermelho com um X no centro.
+
+<details>
+   <summary>Ver erro</summary>
+   
+   ![err](https://github.com/amandavo/bertoti/assets/100284976/f79f35c1-174c-4dfe-a175-8c0d9d802644)
+</details>
+
+## ❗ 7- Flexibilidade e eficiência de uso
+Quando o site SIGA é logado por celulares, a maioria das infomarções ficam cortadas, isso não demonstra a aplicação da heurística, por não facilitar a visualização, assim diminuindo a eficiência. Mesmo arrastando para o lado, em algumas páginas perdemos parte de informções.
+
+<details>
+   <summary>Ver erro</summary>
+   
+   ![err1](https://github.com/amandavo/bertoti/assets/100284976/5b5a247f-05ec-4135-82ec-7c1815247a74)
+</details>
+
+## ❗ 8- Estética e design minimalista
+As interfaces de início do SIGA não são esteticamente agradáveis, dificulta a compreensão do usuário e gera insatisfação geral com a interface. A tipografia não é legível e não tem consistência visual.
+
+<details>
+   <summary>Ver erros</summary>
+   
+   ![err2](https://github.com/amandavo/bertoti/assets/100284976/e021224f-86ad-4cce-870b-6d73f9f059be)
+
+   ![err3](https://github.com/amandavo/bertoti/assets/100284976/2c209e94-1764-494c-a12a-f1c503c5b5af)
 </details>
