@@ -129,6 +129,8 @@ Caso ocorra um erro, o sistema deve oferecer mensagens de erro claras e orientar
 
 ---
 
+<br>
+
 ## 🔴 ERROS
 
 ## ❗ 1- Visibilidade do status do sistema
