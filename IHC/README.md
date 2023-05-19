@@ -66,6 +66,17 @@ As interfaces devem ser robustas o suficiente para evitar que os usuários comet
    ![5](https://github.com/amandavo/bertoti/assets/100284976/f70db2f7-9c7c-429e-b2fb-962499ca1329)
 </details>
 
+## 6️⃣ Reconhecimento em vez de recordação
+Os usuários não devem precisar memorizar informações complexas entre diferentes etapas de uma tarefa. As informações relevantes devem estar sempre visíveis e disponíveis quando necessário.
+
+<details>
+   <summary>Exemplo</summary>
+   Quando um usuário cria uma playlist de música, o aplicativo pode exibir uma seção de "Músicas recomendadas" abaixo. Tornando a experiência mais intuitiva e conveniente, permitindo que adicionem músicas com facilidade, sem a necessidade de lembrar de títulos específicos ou ter que pesquisar.
+   <br>.
+   
+   ![6](https://github.com/amandavo/bertoti/assets/100284976/0bf0ed75-c3f9-4689-ad02-9e45d879ed05)
+</details>
+
 ## 7️⃣ Flexibilidade e eficiência de uso
 Os sistemas devem ser projetados para atender às necessidades de diferentes usuários, permitindo a personalização e o suporte a atalhos para usuários avançados. Isso ajuda a melhorar a eficiência e a produtividade do usuário.
 
